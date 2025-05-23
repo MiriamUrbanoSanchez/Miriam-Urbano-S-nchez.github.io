@@ -2,27 +2,26 @@
 Proyecto de Creación Multimedia Interactiva de la Facultad de Bellas Artes de la Univesidad de Granada
 
 ## 1 Datos
-Titulo : MI Proyecto(nombre)
+Titulo : Minijuego Interactivo.
 
 Web: (url github.io)
 
-Autor: (Nombre apellidos)
+Autor: Miriam Urbano Sánchez. 
 
 Resumen : Este proyecto busca contar las hitorias de migrantes jóvenes, siendo ellos mismos los protagonistas. Esta será una compilación de relatos y crónicas de sus experiencias, exponiendo su lucha de identidad y sentido de pertenencia, herencia migratoria, entre otros temas que abrirán un debate del tema.
 
-Estilo/género: Novela / juego / portfolio / documental... etc.
+Estilo/género: Juego/entretenimiento. 
 
-Logotipo : (insertar imagen y breve justificación, si tiene)
 
 (insertar imágenes a resolucion de 100px alto)
 
 Resolución: 800x600px responsivo/o tamaño fijo (indicar la que has aplicado, y si es reescalable)
 
-Probado en: (indicar dónde has probado que funciona: ej. Google Chrome / MS Edge... /móviles android )
+Probado en:Ms Edge
 
-Tamaño proyecto: 14MB
+Tamaño proyecto: 5.92 MB
 
-Fecha : 14/05/2025
+Fecha : 20/05/2025
 
 Medios (donde se tiene presencia relacionada):
 
