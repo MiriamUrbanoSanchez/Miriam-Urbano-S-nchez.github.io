@@ -4,7 +4,7 @@ Proyecto de Creación Multimedia Interactiva de la Facultad de Bellas Artes de l
 ## 1 Datos
 Titulo : Minijuego Interactivo.
 
-Web: (url github.io)
+Web: https://miriamurbanosanchez.github.io/Miriam-Urbano-S-nchez.github.io/
 
 Autor: Miriam Urbano Sánchez. 
 
@@ -32,10 +32,12 @@ Github
 
 ## 2. Memoria del proyecto
 ### 2.1. Storyboard:
-(narra brevemente lo que sucede en tu proyecto, puedes usar 3-4 imágenes de apoyo)
+![IMG_4822](https://github.com/user-attachments/assets/27e728d9-a71d-4cc0-b663-9efdd4489cc8)
+
 
 ### 2.2. Esquema de navegación
-(imagen con las distintas pantallas de navegación, usa draw.io o cualquier programa de dibujo)
+![IMG_4821](https://github.com/user-attachments/assets/212d12f0-ce9d-4d0f-8900-f47a10fe2142)
+
 
 ## 3. Metodología
 
