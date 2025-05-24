@@ -8,9 +8,12 @@ Web: (url github.io)
 
 Autor: Miriam Urbano Sánchez. 
 
-Resumen : Este proyecto busca contar las hitorias de migrantes jóvenes, siendo ellos mismos los protagonistas. Esta será una compilación de relatos y crónicas de sus experiencias, exponiendo su lucha de identidad y sentido de pertenencia, herencia migratoria, entre otros temas que abrirán un debate del tema.
+Resumen : Este proyecto de aplicación interactiva se trata de un juego conjugado por dos niveles, en el cual se podrán llevar a cabo distintas interacciones con el teclado y el ratón de nuestro dispositivo.
+
 
 Estilo/género: Juego/entretenimiento. 
+
+
 ![Captura](https://github.com/user-attachments/assets/97597976-4f84-4c1b-987d-e009d1091853)
 ![Captura2](https://github.com/user-attachments/assets/ebd71190-3a68-42ab-ad1d-5102c01500ca)
 
@@ -25,10 +28,7 @@ Fecha : 20/05/2025
 
 Medios (donde se tiene presencia relacionada):
 
-Github:
-Twitter:
-Instagram:
-Tiktok:
+Github
 
 ## 2. Memoria del proyecto
 ### 2.1. Storyboard:
@@ -45,13 +45,13 @@ Este proyecto es interesante porque permite el ocio y además refleja el uso de 
 
 Orientado a todo tipo de público.
 
-Etapa 2: Desarrollo / actividades realizadas
+**Etapa 2: Desarrollo / actividades realizadas**
 
-Video
 **Instrucciones y ayuda al usuario**
 Para llevar a cabo el juego, primero debemos hacer click en el botón _Start_ que nos llevará a la siguiente escena, en la cual el desafío es capturar todas las monedas. Después, clicaremos en el botón _Siguiente nivel_, y pasaremos al siguiente nivel donde deberemos completar el laberinto, arrastrando la estrella con el ratón y así alcanzar la meta exitosamente.
 
 **Menús y elementos de navegación (botones)**
+La aplicación incluye elementos de navegación diversos, tales como botones y teclas. 
 
 **Etapa 3: Problemas identificados**
 En cuanto a los problemas identificados, una vez exportada la plicación detecté que las dimensiones de la pantalla alteraban algunos elementos gráficos. Además, la escena iba demasiado deprisa pero se solucionó ajustando los frames a la hora de la exportación.
