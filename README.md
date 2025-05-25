@@ -18,7 +18,7 @@ Estilo/género: Juego/entretenimiento.
 ![Captura2](https://github.com/user-attachments/assets/ebd71190-3a68-42ab-ad1d-5102c01500ca)
 
 
-Resolución: 800x600px responsivo/o tamaño fijo (indicar la que has aplicado, y si es reescalable)
+Resolución: 400x600px responsivo/o tamaño fijo (indicar la que has aplicado, y si es reescalable)
 
 Probado en:Ms Edge
 
